@@ -1,0 +1,95 @@
+{
+    "token": "TU_TOKEN",
+    "materiales": {
+        "pla": {
+            "id": 519,
+            "diametro": 26,
+            "colores": [
+                "true_black", "natural", "ruby", "ivory_white", "orinoco", "saphire", "chlorophyll", "cobalt", "jade", "silver", "whisteria", "aubergine", 
+                "coral", "gold", "mahogany", "emerald", "antracite", "sunset", "hillier_lake"
+            ],
+            "tamanos": ["330", "750", "1000"]
+        },
+        "flex": {
+            "id": 20,
+            "diametro": 62,
+            "colores": [
+                "true_black", "ruby", "ivory_white", "orinoco", "caribbean", "saphire"
+            ],
+            "tamanos": ["330", "750", "1000"]
+        }   
+    },
+    "tamanos": {
+        "330": {
+            "tamano": 1
+        },
+        "750": {
+            "tamano": 2
+        },
+        "1000": {
+            "tamano": 3
+        }
+    },
+    "colores": {
+        "caribbean": {
+            "color": 39
+        },
+        "true_black": {
+            "color": 11
+        },
+        "natural": {
+            "color": 25
+        },
+        "ruby": {
+            "color": 10
+        },
+        "ivory_white": {
+            "color": 8
+        },
+        "orinoco": {
+            "color": 16
+        },
+        "saphire": {
+            "color": 29
+        },
+        "chlorophyll": {
+            "color": 15
+        },
+        "cobalt": {
+            "color": 14
+        },
+        "jade": {
+            "color": 36
+        },
+        "silver": {
+            "color": 31
+        },
+        "whisteria": {
+            "color": 91
+        },
+        "aubergine": {
+            "color": 92
+        },
+        "coral": {
+            "color": 93
+        },
+        "gold": {
+            "color": 94
+        },
+        "mahogany": {
+            "color": 95
+        },
+        "emerald": {
+            "color": 96
+        },
+        "antracite": {
+            "color": 97
+        },
+        "sunset": {
+            "color": 98
+        },
+        "hillier_lake": {
+            "color": 99
+        }
+    }
+}
