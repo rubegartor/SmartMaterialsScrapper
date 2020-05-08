@@ -2,6 +2,8 @@
 
 Web Scrapper para obtener los productos disponibles en la tienda web de SmartMaterials3D (https://www.smartmaterials3d.com/) en formato JSON
 
+(Usar Python 3.7 para su correcto funcionamiento)
+
 ## Uso:
 ```bash-script
 python3 main.py -c "<color>" -m "<material>" -t "<tamaño>"
