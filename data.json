@@ -1,6 +1,6 @@
 {
     "materiales": {
-        "pla": {
+        "PLA": {
             "id": 519,
             "diametro": 26,
             "colores": [
@@ -9,18 +9,142 @@
             ],
             "tamanos": ["330", "750", "1000"]
         },
-        "flex": {
+        "PLA Pastel": {
+            "id": 504,
+            "diametro": 62,
+            "colores": [
+                "mint", "lavender", "quartz", "aqua", "vanilla"
+            ],
+            "tamanos": ["750"]
+        },
+        "PLA 3D870": {
+            "id": 172,
+            "diametro": 62,
+            "colores": [
+                "true_black", "natural", "ivory_white"
+            ],
+            "tamanos": ["750"]
+        },
+        "PLA 3D850": {
+            "id": 23,
+            "diametro": 26,
+            "colores": [
+                "true_black", "natural", "ivory_white"
+            ],
+            "tamanos": ["750"]
+        },
+        "PLA Glitter": {
+            "id": 518,
+            "diametro": 26, 
+            "colores": [
+                "silver_glitter", "red_glitter", "blue_glitter", "green_glitter", "violet_glitter"
+            ],
+            "tamanos": ["750"]
+        },
+        "EP": {
+            "id": 36,
+            "diametro": 26,
+            "colores": [
+                "true_black", "ivory_white"
+            ],
+            "tamanos": ["750"]
+        },
+        "Wood": {
+            "id": 152,
+            "diametro": 26,
+            "colores": [
+                "bamboo", "cedar", "ebony", "walnut", "oak"
+            ],
+            "tamanos": ["750"]
+        },
+        "Flex": {
             "id": 20,
             "diametro": 62,
             "colores": [
                 "true_black", "ruby", "ivory_white", "orinoco", "caribbean", "saphire"
             ],
             "tamanos": ["330", "750", "1000"]
-        }   
+        },
+        "ABS": {
+            "id": 520,
+            "diametro": 26,
+            "colores": [
+                "true_black", "natural", "ruby", "ivory_white", "orinoco", "saphire", "chlorophyll", "cobalt", "silver", "aubergine", "antracite", "sunset",
+                "hillier_lake"
+            ],
+            "tamanos": ["750", "1000"]
+        },
+        "ABS Fireproof": {
+            "id": 27,
+            "diametro": 26,
+            "colores": [
+                "natural"
+            ],
+            "tamanos": ["750"]
+        },
+        "Medical": {
+            "id": 94,
+            "diametro": 26,
+            "colores": [
+                "natural"
+            ],
+            "tamanos": ["750"]
+        },
+        "ABS Magneto": {
+            "id": 506,
+            "diametro": 62,
+            "colores": [
+                "natural"
+            ],
+            "tamanos": ["750"]
+        },
+        "ABS Antiestático": {
+            "id": 512,
+            "diametro": 62,
+            "colores": [
+                "natural"
+            ],
+            "tamanos": ["750"]
+        },
+        "PP": {
+            "id": 25,
+            "diametro": 26,
+            "colores": [
+                "true_black", "natural", "ivory_white"
+            ],
+            "tamanos": ["700"]
+        },
+        "PETG": {
+            "id": 24,
+            "diametro": 26,
+            "colores": [
+                "true_black", "natural", "ruby", "ivory_white", "orinoco", "orinoco", "chlorophyll", "cobalt"
+            ],
+            "tamanos": ["750"]
+        },
+        "ASA": {
+            "id": 196,
+            "diametro": 26,
+            "colores": [
+                "true_black", "natural", "ruby", "orinoco", "chlorophyll", "cobalt"
+            ],
+            "tamanos": ["750"]
+        },
+        "GLACE": {
+            "id": 158,
+            "diametro": 26,
+            "colores": [
+                "natural"
+            ],
+            "tamanos": ["750"]
+        }
     },
     "tamanos": {
         "330": {
             "tamano": 1
+        },
+        "700": {
+            "tamano": 43
         },
         "750": {
             "tamano": 2
@@ -30,6 +154,51 @@
         }
     },
     "colores": {
+        "silver_glitter": {
+            "color": 104
+        },
+        "red_glitter": {
+            "color": 105
+        },
+        "blue_glitter": {
+            "color": 106
+        },
+        "green_glitter": {
+            "color": 107
+        },
+        "violet_glitter": {
+            "color": 108
+        },
+        "bamboo": {
+            "color": 50
+        },
+        "cedar": {
+            "color": 51
+        },
+        "ebony": {
+            "color": 52
+        },
+        "walnut": {
+            "color": 53
+        },
+        "oak": {
+            "color": 88
+        },
+        "vanilla": {
+            "color": 82
+        },
+        "aqua": {
+            "color": 85
+        },
+        "quartz": {
+            "color": 83
+        },
+        "lavender": {
+            "color": 84
+        },
+        "mint": {
+            "color": 86
+        },
         "caribbean": {
             "color": 39
         },
