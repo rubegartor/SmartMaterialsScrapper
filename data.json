@@ -37,7 +37,7 @@
             "id": 518,
             "diametro": 26, 
             "colores": [
-                "silver_glitter", "red_glitter", "blue_glitter", "green_glitter", "violet_glitter"
+                "silver_glitter", "red_glitter", "blue_glitter", "green_glitter", "violet_glitter", "black_glitter"
             ],
             "tamanos": ["750"]
         },
@@ -154,6 +154,9 @@
         }
     },
     "colores": {
+        "black_glitter": {
+            "color": 159
+        },
         "silver_glitter": {
             "color": 104
         },
